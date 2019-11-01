@@ -1,0 +1,13 @@
+Data Set: New York Airbnb 
+This dataset is about the Airbnb room details in the New York city and it contains neighborhood group of NY, Latitude and longitude of the hotel, Price, room type and reviews of the hotel etc. From the above data we can analyze the hotel details with the help of visualization.
+Tools Used: Tableau
+Dashboard Link: https://public.tableau.com/profile/nikhil.peddada#!/vizhome/670-Visualization/AirbnbDashboard?publish=yes
+Inferences
+1.)	What are the different hotels and their details in New York based on regions?
+•	I have used New York Map from which it shows different regions such as Bronx, Manhattan, Staten Island, Brooklyn, Queens. Through visualization We can find out according to the region the room price details, room type and name of hotel. I have used symbols map in the tableau to present it.
+2.)	Top 10 costly hotels based on different room type?
+•	I have used side-by-side bars to visualize based on top 10 hotels on different room type such as Entire room, Private room, Shared room. I have used labels of Name, Neighborhood group, Price of the hotel. We have highest price for hotels in Queens and Brooklyn region only and it costs 10k for entire home, 10k for Private room and 1.25K for shared rooms. 
+3.)	Average Price of the Rooms?
+•	In tableau I have used packed bubbles to know the average price of Airbnb rooms based on different room types. The average price of higher room has bigger bubble and the lower average price has small bubble. The average price of Entire home/ apt is 211.8, Private room is 89.8, Shared room 70.1. From this we can say that the entire home is the highest average price of hotel.
+4.)	Percentage of hotels in New York?
+•	We can use pie-charts to interpret the percentages of hotels based on neighborhood group such as Bronx, Manhattan, Staten Island, Brooklyn, Queens. 44.30% hotels in the New York are in Manhattan which is highest percentage and 0.76% hotels are in Staten Island. 
